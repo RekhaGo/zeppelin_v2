@@ -1,0 +1,53 @@
+{
+  "paragraphs": [
+    {
+      "text": "print(\"I am in first commit\")",
+      "user": "anonymous",
+      "dateUpdated": "Jul 1, 2019 12:29:04 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala"
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1562002128261_931575318",
+      "id": "20190701-122848_1339281922",
+      "dateCreated": "Jul 1, 2019 12:28:48 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Version_0",
+  "id": "2EFS6FC59",
+  "angularObjects": {
+    "2EDWFY6V1:shared_process": [],
+    "2EG3CTZ86:shared_process": [],
+    "2EHDXFX28:shared_process": [],
+    "2EFDUZFFG:shared_process": [],
+    "2EEKQD9ND:shared_process": [],
+    "2EEB4HZ3E:shared_process": [],
+    "2EFGDU8KM:shared_process": [],
+    "2EFRKCJ25:shared_process": [],
+    "2EDH7PG9K:shared_process": [],
+    "2EER2XB8U:shared_process": [],
+    "2EG526FUP:shared_process": [],
+    "2EENFBSUJ:shared_process": [],
+    "2EFAU63B3:existing_process": [],
+    "2EF4EJRNS:shared_process": [],
+    "2EEKHCS9A:shared_process": [],
+    "2EHC374AU:shared_process": [],
+    "2EEHPYSSW:shared_process": [],
+    "2EDGVJJ7A:shared_process": [],
+    "2EFK2ESNW:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
