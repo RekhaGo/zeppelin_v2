@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "print(\"I am in first commit\")",
+      "text": "print(\"I am in first commit\")\nprit(\"I am in second commit\")",
       "user": "anonymous",
-      "dateUpdated": "Jul 1, 2019 12:29:04 PM",
+      "dateUpdated": "Jul 1, 2019 12:34:09 PM",
       "config": {
         "colWidth": 12.0,
         "enabled": true,
